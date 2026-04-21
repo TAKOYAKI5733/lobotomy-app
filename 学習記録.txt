@@ -1,0 +1,13 @@
+「npx create-next-app@latest my-app --typescript --tailwind --eslint」
+next.jsのmy-appの環境を製作してくれるコマンド。覚える必要はないけどこれは便利
+
+「npx shadcn@latest init」
+ボタンとかモダンな感じのデザインが簡単にできるブループリント的なものをインストールしてくれる
+[package.json]があるところ(my-app)のディレクトリで実行する
+
+「npx shadcn-ui@latest add button」
+shadcnのbuttonを追加してくれるコマンド
+
+「npm run dev」
+ローカルホストを立てて、実行してくれるコマンド
+
