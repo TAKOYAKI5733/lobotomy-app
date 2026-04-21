@@ -11,3 +11,6 @@ shadcnのbuttonを追加してくれるコマンド
 「npm run dev」
 ローカルホストを立てて、実行してくれるコマンド
 
+「.env.local」を製作して自分だけの情報を守る
+NEXT_PUBLIC_SUPABASE_URLとNEXT_PUBLIC_SUPABASE_ANON_KEYは最初の部分のURLをコピーしてくれば簡単にできる。
+
